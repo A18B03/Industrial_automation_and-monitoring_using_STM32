@@ -1,2 +1,4 @@
 # Industrial_automation_and-monitoring_using_STM32
-Used STM32 as the main microcontroller with MEMS microphones and MPU-6050, which is used to monitor the faults in the  machines and detect it and gives the output through LED indicators.
+The project aims to build a system for industrial monitoring and fault defects in the machines. We have used STM32F407VET6 also known as Black board as the main microcontroller with MPU6050 sensor which detects the motion. This has an in built temperature sensor to sense the board temperature , which is an important feature.
+MEMS microphone is used to detect the sound of the machine. 
+
